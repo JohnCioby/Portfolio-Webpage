@@ -101,7 +101,7 @@ nav a {
     padding-left: 160px;
 }
 
-@media only screen and (min-width: 420px) and (max-width: 1480px) {
+@media only screen and (min-width: 320px) and (max-width: 1480px) {
   body {
       width: 90%;
       background-size: cover;
