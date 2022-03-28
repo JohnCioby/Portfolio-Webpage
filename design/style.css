@@ -79,9 +79,8 @@ h2 {
        
   body 
   {
-      background-size: cover;
-      width: 90%;
-      height: auto;
+      background-image: none;
+      background-color: navy;
   }
   h2 {
       width: 100%;
